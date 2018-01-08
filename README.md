@@ -2,7 +2,7 @@
 
 ## git clone
 
-git add 
+git add <file name>
 
 git commit -m "Message"
 
